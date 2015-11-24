@@ -1,10 +1,7 @@
-#A simple iOS demo for YouTube API
+Demo use youtube api
 
-This is a simple demo that shows you how to integrate your app with YouTube API. You can 
-find the full tutorial here:
+Reference:
 
-http://www.appcoda.com/youtube-api-ios-tutorial
+AppCoda中文
 
-To run the demo, you will need to create your own API key first and update the following line of code in ViewController.swift:
-
-  var apiKey = "YOUR_API_KEY_HERE"
+http://www.appcoda.com.tw/youtube-api-ios-tutorial/
