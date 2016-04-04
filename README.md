@@ -8,4 +8,4 @@ Screenshot :
 
 Reference :
 ------------
-[AppCoda中文](http://www.appcoda.com.tw/youtube-api-ios-tutorial/)
+[AppCoda中文: 使用 YouTube API 打造影音搜尋 App](http://www.appcoda.com.tw/youtube-api-ios-tutorial/)
